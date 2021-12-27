@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-// Dummy change to be able to push development branch
+
 function App() {
   return (
     <div className="App">
